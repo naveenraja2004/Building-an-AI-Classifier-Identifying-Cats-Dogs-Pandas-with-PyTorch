@@ -150,6 +150,10 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
+###output
+
+
+![WhatsApp Image 2025-12-04 at 13 14 09_4e947785](https://github.com/user-attachments/assets/8b682def-e185-4024-b207-200386c36026)
 
 ### Results
 
